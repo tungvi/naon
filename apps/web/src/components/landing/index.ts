@@ -1,0 +1,13 @@
+export { Header } from './Header';
+export { Hero } from './Hero';
+export { Features } from './Features';
+export { InsightsShowcase } from './InsightsShowcase';
+export { Pipelines } from './Pipelines';
+export { CTA } from './CTA';
+export { Footer } from './Footer';
+export { MinimalHeader } from './MinimalHeader';
+export { MinimalHero } from './MinimalHero';
+export { MinimalFeatures } from './MinimalFeatures';
+export { MinimalPipelines } from './MinimalPipelines';
+export { MinimalCTA } from './MinimalCTA';
+export { MinimalFooter } from './MinimalFooter';
